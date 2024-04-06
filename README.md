@@ -1,6 +1,6 @@
 # Proje-2-Rehber-Uygulamasi-
 
-PROJE 2 REHBER UYGULAMSI
+PROJE 2 REHBER UYGULAMASI
 
 
 
