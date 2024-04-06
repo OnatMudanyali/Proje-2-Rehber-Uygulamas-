@@ -1,1 +1,1 @@
-# Proje-2-Rehber-Uygulamas-
+# Proje-2-Rehber-Uygulamasi-
